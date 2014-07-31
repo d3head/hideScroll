@@ -1,6 +1,6 @@
 body {
   overflow-y: hidden;
 }
-.withScroll {
+body.withScroll {
   overflow-y: scroll;
 }
