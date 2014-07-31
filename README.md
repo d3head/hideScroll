@@ -8,7 +8,9 @@ Installation
 
 Just add these two lines into your `<head>` section:
 
-`<link rel="stylesheet" href="hidescroll.css">``<script src="hidescroll.min.js"></script>`
+`<link rel="stylesheet" href="hidescroll.css">`
+
+`<script src="hidescroll.min.js"></script>`
 
 License
 =======
