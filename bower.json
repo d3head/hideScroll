@@ -1,0 +1,25 @@
+{
+  "name": "hideScroll",
+  "main": "hideScroll.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/d3head/hideScroll",
+  "authors": [
+    "Lupikov Oleg <opensource@oleg.so>"
+  ],
+  "description": "Simple plugin which hides a scroll bar and showing it when user starting a scrolling.",
+  "keywords": [
+    "jquery",
+    "scroll"
+  ],
+  "license": "GNU GPL v2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
