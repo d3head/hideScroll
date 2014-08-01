@@ -3,6 +3,8 @@ hideScroll
 
 Simple plugin which hides a scroll bar and showing it when user starting a scrolling.
 
+Requires jQuery.
+
 Installation
 ============
 For install via Bower, run:
