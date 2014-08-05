@@ -1,7 +1,7 @@
 hideScroll.js
 ==========
 
-Simple plugin which hides a scroll bar and showing it when user starting a scrolling.
+Simple javascript plugin which hides a scroll bar and showing it when user starting a scrolling.
 
 Requires jQuery.
 
